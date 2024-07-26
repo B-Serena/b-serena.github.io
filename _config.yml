@@ -20,7 +20,7 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: Sera
+  name: Serena
   pic: /assets/img/me.webp
   picAlt: "Data to the Moon and Back"
   job: Data Science
