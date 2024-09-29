@@ -65,3 +65,12 @@ conda install pandas
 또한 터미널을 여러개 띄워놓고 작업해야 할 때는 각각의 터미널마다 가상환경을 활성화해줘야 합니다.
 interpreter 역시 프로젝트마다 다르게 설정해줄 수 있기 때문에 코드 실행 전에는 항상 확인해줘야 합니다.
 
+
+그리고 바로 github repository 로 연결하여 사용합니다.
+저는 개인적으로 fork 라는 프로그램을 사용하여 branch 관리하는 것이 편했습니다.
+git을 접한지 얼마 안되었을 때 개념 잡기도 좋았습니다.
+
+0. vscode 에서 github과 연결 시켜줄 프로젝트 폴더로 이동합니다.
+1. fork 에서 new local repository 를 만들어줍니다.
+2. 그 상태에서 github remote repo에 연결되어있는 폴더를 열어줍니다.
+3. first commit을 하면서 branch를 설정해주고, remote repo를 연결해줍니다.
